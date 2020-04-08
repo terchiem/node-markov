@@ -1,0 +1,24 @@
+{
+  "name": "node-markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terchiem/node-markov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terchiem/node-markov/issues"
+  },
+  "homepage": "https://github.com/terchiem/node-markov#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jest": "^25.2.7"
+  }
+}
